@@ -1,0 +1,15 @@
+
+.App-header {
+  background-color: rgb(236, 247, 88);
+  height: 80px;
+  padding: 10px;
+  color: rgb(58, 54, 54);
+}
+
+.App-title {
+  font-size: 3em;
+}
+
+.App-intro {
+  font-size: large;
+}
